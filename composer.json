@@ -10,8 +10,6 @@
             "email": "vigneshkumar.r@ewallsolutions.com"
         }
     ],
-    "require": {
-    	"ewall-vikee/test-composer-installation": "1.2.3"		
-    },
+    "require": {},
     "minimum-stability": "dev"
 }
