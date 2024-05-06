@@ -1,0 +1,13 @@
+{
+    "name": "ewall/test-composer-installation",
+    "description": "This is just a test framework.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vikee",
+            "email": "vigneshkumar.r@ewallsolutions.com"
+        }
+    ],
+    "require": {}
+}
