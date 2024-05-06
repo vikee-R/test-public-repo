@@ -1,5 +1,5 @@
 {
-    "name": "vikee-ewall/test-composer-installation",
+    "name": "ewall-vikee/test-composer-installation",
     "description": "This is just a test framework.",
     "type": "library",
     "license": "MIT",
@@ -10,6 +10,8 @@
             "email": "vigneshkumar.r@ewallsolutions.com"
         }
     ],
-    "require": {},
+    "require": {
+    	"ewall-vikee/test-composer-installation": "1.0.0"		
+    },
     "minimum-stability": "dev"
 }
