@@ -10,5 +10,6 @@
             "email": "vigneshkumar.r@ewallsolutions.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "stable"
 }
