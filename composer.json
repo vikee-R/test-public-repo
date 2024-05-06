@@ -1,5 +1,5 @@
 {
-    "name": "ewall/test-composer-installation",
+    "name": "vikee-ewall/test-composer-installation",
     "description": "This is just a test framework.",
     "type": "library",
     "license": "MIT",
